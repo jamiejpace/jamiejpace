@@ -1,6 +1,6 @@
 👋 Hi, I'm Jamie! 
 
-🧬 I was a Registered Nurse for seven years before taking the leap into software development.
+🧬 Before taking the leap into software engineering, I was a traveling oncology nurse.
 
 🌱 I’m currently learning Ruby at Turing School of Software and Design.
 
