@@ -1,4 +1,4 @@
-👋&nbsp; &nbsp;Hi, I'm Jamie! 
+## Hi, I'm Jamie!&nbsp;👋
 
 👩🏻‍⚕️&nbsp; &nbsp;Before taking the leap into software engineering, I was a traveling nurse, working at oncology clinics across 5 different states and 7 different facilites.
 
