@@ -1,10 +1,10 @@
 👋&nbsp; &nbsp;Hi, I'm Jamie! 
 
-🧬&nbsp; &nbsp;Before taking the leap into software engineering, I was a traveling nurse, working at oncology clinics across 5 different states and 7 different facilites.
+👩🏻‍⚕️&nbsp; &nbsp;Before taking the leap into software engineering, I was a traveling nurse, working at oncology clinics across 5 different states and 7 different facilites.
 
-🌱&nbsp; &nbsp;I’m currently learning Ruby at Turing School of Software and Design.
+💻&nbsp; &nbsp;I’m currently learning Ruby at Turing School of Software and Design.
 
-📚&nbsp; &nbsp;When I'm not coding, you can usually find me curled up with a novel, riding my bike, or traveling somewhere new. 
+🚲&nbsp; &nbsp;When I'm not coding, you can usually find me curled up with a novel, riding my bike, or traveling somewhere new. 
 
 📫&nbsp; &nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/jamiejpace/<br><br>
 
