@@ -4,7 +4,7 @@
 
 💻&nbsp; &nbsp;I’m currently learning Ruby at Turing School of Software and Design.
 
-🚲&nbsp; &nbsp;When I'm not coding, you can usually find me riding my bike, curled up with a book, or on the hunt for the *perfect* ice cream flavor. 
+✨&nbsp; &nbsp;When I'm not coding, you can usually find me curled up with a book, riding my bike, or on the hunt for the *perfect* ice cream flavor. 
 
 📫&nbsp; &nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/jamiejpace/<br><br>
 
