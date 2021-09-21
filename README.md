@@ -6,7 +6,10 @@
 
 📚&nbsp; &nbsp;When I'm not coding, you can usually find me curled up with a novel, riding my bike, or traveling somewhere new. 
 
-📫&nbsp; &nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/jamiejpace/
+📫&nbsp; &nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/jamiejpace/<br><br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiejpace)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 jamiejpace/jamiejpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
