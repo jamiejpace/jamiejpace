@@ -10,7 +10,7 @@
 
 
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiejpace&show_icons=true&theme=outrun&hide_border=true&&count_private=true&include_all_commits=true" /><img src=https://github-readme-stats.vercel.app/api/top-langs/?username=jamiejpace&layout=compact /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiejpace&show_icons=true&theme=outrun&hide_border=true&&count_private=true&include_all_commits=true" /><img height="180em" width="494" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jamiejpace&layout=compact /></p>
 
 
 <!--START_SECTION:waka-->
