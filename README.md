@@ -8,8 +8,9 @@
 
 📫&nbsp; &nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/jamiejpace/<br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamiejpace&show_icons=true&theme=outrun)
 
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiejpace&show_icons=true&theme=outrun&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
 ```text
