@@ -14,11 +14,6 @@
 <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jamiejpace&layout=compact />
 
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
 
 <!---
 jamiejpace/jamiejpace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
