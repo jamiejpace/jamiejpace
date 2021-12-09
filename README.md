@@ -1,8 +1,8 @@
 ### Hi, I'm Jamie!
 
-👩🏻‍💻&nbsp;Former traveling oncology nurse turned backend software engineer who loves finding solutions to complex problems and is passionate about driving change in the healthcare industry.  <br>
-✨&nbsp;When I'm not coding, you can usually find me curled up with a book, riding my bike, or on the hunt for the perfect ice cream flavor. <br>
-🔮&nbsp;Currently learning: GraphQL <br>
+👩🏻‍💻&nbsp;Former traveling oncology nurse turned backend software engineer who loves collaborating with other to find solutions to complex problems. <br><br>
+✨&nbsp;When I'm not coding, you can usually find me curled up with a book, riding my bike, or on the hunt for the perfect ice cream flavor. <br><br>
+🔮&nbsp;Currently learning: GraphQL <br><br>
 📫&nbsp;I'd love to hear from you! Email me at jamiejpace@gmail.com or find me on [LinkedIn](https://www.linkedin.com/in/jamiejpace/)<br>
 <p>
 <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
