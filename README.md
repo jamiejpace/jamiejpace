@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/ruby%20-D14836.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
 <img src="https://img.shields.io/badge/Ruby%20on%20Rails-D14836.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20-7119C2.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/ActiveRecord%20-201E84.svg?&style=for-the-badge&logo=ActiveRecord&logoColor=white" />
 <img src="https://img.shields.io/badge/OOP%20-201E84.svg?&style=for-the-badge&logo=OOP&logoColor=white" />
 <img src="https://img.shields.io/badge/TDD%20-2A42D0.svg?&style=for-the-badge&logo=TDD&logoColor=white" />
